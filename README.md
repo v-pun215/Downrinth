@@ -10,5 +10,6 @@ Example:
 ```python
 from download import downloadMod
 
-downloadMod("sodium", "fabric", "1.17.1", "C:\users\username\appdata\roaming\.minecraft"
+downloadMod("sodium", "fabric", "1.17.1", "C:\users\username\appdata\roaming\.minecraft")
 ```
+That downloads sodium into the mods folder in mcdir
