@@ -29,5 +29,7 @@ That downloads sodium into the mods folder in the minecraft directory.
 
 ## Upcoming features
 > Resource Pack downloads
+
 > Shader downloads
+
 > Proper mod manager with GUI
