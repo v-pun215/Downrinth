@@ -4,7 +4,7 @@ A Python utility to download mods from modrinth.
 ## Quickstart
 Download it from here.
 
-Now, place the download.py file in your python project directory.
+Place download.py into your Python project's folder.
 
 ## Usage
 Main goal is to download mods from modrinth.
@@ -26,3 +26,8 @@ from download import downloadMod
 downloadMod("sodium", "fabric", "1.17.1", "C:\users\username\appdata\roaming\.minecraft")
 ```
 That downloads sodium into the mods folder in the minecraft directory.
+
+## Upcoming features
+> Resource Pack downloads
+> Shader downloads
+> Proper mod manager with GUI
