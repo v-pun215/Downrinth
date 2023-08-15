@@ -1,5 +1,6 @@
 # Downrinth
-![image](https://github.com/v-pun215/ModrinthDown/assets/67716965/f5ef80a3-e469-46b1-a883-614221d22e11)
+![image](https://github.com/v-pun215/Downrinth/assets/67716965/f507c2df-3aab-4a8e-bf73-1ad17a49083d)
+
 
 
 
@@ -7,16 +8,16 @@
 A Python utility to download mods from [Modrinth](https://modrinth.com). 
 
 ## Quickstart
-Download it from here.
-
-Place download.py into your Python project's folder.
+To download this package:
+```
+pip install downrinth
+```
 
 ## Usage
-Main goal is to download mods from modrinth.
 
 To import ModrinthDown
 ```python
-from download import downloadMod
+from modrinth import *
 ```
 
 To download mod from Modrinth
@@ -30,7 +31,7 @@ from download import downloadMod
 
 downloadMod("sodium", "fabric", "1.17.1", "C:\users\username\appdata\roaming\.minecraft")
 ```
-That downloads sodium into the mods folder in the minecraft directory.
+That downloads Sodium into the mods folder in the Minecraft directory.
 
 ## Upcoming features
 > Resource Pack downloads
