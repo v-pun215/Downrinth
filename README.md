@@ -17,7 +17,7 @@ pip install downrinth
 
 To import ModrinthDown
 ```python
-from modrinth import *
+from downrinth import *
 ```
 
 To download mod from Modrinth
@@ -27,11 +27,12 @@ downloadMod(modSlug, modloader, gameversion, minecraftdirectory)
 
 ## Example
 ```python
-from download import downloadMod
+from downrinth import downloadMod
 
 downloadMod("sodium", "fabric", "1.17.1", "C:\users\username\appdata\roaming\.minecraft")
 ```
 That downloads Sodium into the mods folder in the Minecraft directory.
+
 
 ## Upcoming features
 > Resource Pack downloads
