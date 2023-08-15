@@ -11,7 +11,7 @@ Check this package out at [PyPI](https://pypi.org/project/downrinth/)
 
 ## Quickstart
 To download this package:
-```
+```command
 pip install downrinth
 ```
 
