@@ -1,8 +1,10 @@
-# ModrinthDown
-![image](https://github.com/v-pun215/ModrinthDown/assets/67716965/061762bb-8459-45b1-99f2-e9ee5d1572fd)
+# Downrinth
+![image](https://github.com/v-pun215/ModrinthDown/assets/67716965/f5ef80a3-e469-46b1-a883-614221d22e11)
 
 
-A Python utility to download mods from modrinth. 
+
+
+A Python utility to download mods from [Modrinth](https://modrinth.com). 
 
 ## Quickstart
 Download it from here.
