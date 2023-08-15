@@ -7,6 +7,8 @@
 
 A Python utility to download mods from [Modrinth](https://modrinth.com). 
 
+Check this package out at [PyPI](https://pypi.org/project/downrinth/)
+
 ## Quickstart
 To download this package:
 ```
@@ -15,7 +17,7 @@ pip install downrinth
 
 ## Usage
 
-To import ModrinthDown
+To import ModrinthDown:
 ```python
 from downrinth import *
 ```
