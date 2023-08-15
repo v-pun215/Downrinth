@@ -7,7 +7,7 @@
 
 A Python utility to download mods from [Modrinth](https://modrinth.com). 
 
-Check this package out at [PyPI](https://pypi.org/project/downrinth/)
+Check this package out at [PyPI](https://pypi.org/project/downrinth/).
 
 ## Quickstart
 To download this package:
