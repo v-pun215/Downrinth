@@ -8,6 +8,10 @@
 A Python utility to download mods from [Modrinth](https://modrinth.com). 
 
 Check this package out at [PyPI](https://pypi.org/project/downrinth/).
+## Known Bugs
+In linux, it does not automatically install the module ```wget```. 
+
+To do this, do ```pip install wget``` in the terminal.
 
 ## Quickstart
 To download this package:
