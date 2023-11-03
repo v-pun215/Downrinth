@@ -1,5 +1,6 @@
 # Downrinth
-![image](https://github.com/v-pun215/Downrinth/assets/67716965/f507c2df-3aab-4a8e-bf73-1ad17a49083d)
+![image](https://github.com/v-pun215/Downrinth/assets/67716965/8f9f304c-9bae-4019-9b6e-6e96eb128aac)
+
 
 
 
